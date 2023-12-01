@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yusup_akga", "Yusup_akga.csproj", "{2EE6686E-7335-4689-8E5B-E0F51EDC804D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "..\Setup\Setup.vdproj", "{C3D474E2-63E0-401E-9549-F462848DD2D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EE6686E-7335-4689-8E5B-E0F51EDC804D}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{2EE6686E-7335-4689-8E5B-E0F51EDC804D}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{2EE6686E-7335-4689-8E5B-E0F51EDC804D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EE6686E-7335-4689-8E5B-E0F51EDC804D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3D474E2-63E0-401E-9549-F462848DD2D7}.Debug|Any CPU.ActiveCfg = Debug
+		{C3D474E2-63E0-401E-9549-F462848DD2D7}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {631A57DF-0694-4FBE-B170-D2D272102ACA}
+	EndGlobalSection
+EndGlobal

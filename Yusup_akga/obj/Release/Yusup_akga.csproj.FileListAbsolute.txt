@@ -1,0 +1,15 @@
+D:\Taslama\Yusup_akga\Yusup_akga\bin\Release\Yusup_akga.exe.config
+D:\Taslama\Yusup_akga\Yusup_akga\bin\Release\Yusup_akga.exe
+D:\Taslama\Yusup_akga\Yusup_akga\bin\Release\Yusup_akga.pdb
+D:\Taslama\Yusup_akga\Yusup_akga\bin\Release\MySql.Data.dll
+D:\Taslama\Yusup_akga\Yusup_akga\obj\Release\Yusup_akga.Admin.resources
+D:\Taslama\Yusup_akga\Yusup_akga\obj\Release\Yusup_akga.Form1.resources
+D:\Taslama\Yusup_akga\Yusup_akga\obj\Release\Yusup_akga.Hasabat.resources
+D:\Taslama\Yusup_akga\Yusup_akga\obj\Release\Yusup_akga.Products.resources
+D:\Taslama\Yusup_akga\Yusup_akga\obj\Release\Yusup_akga.Properties.Resources.resources
+D:\Taslama\Yusup_akga\Yusup_akga\obj\Release\Yusup_akga.satuwlar.resources
+D:\Taslama\Yusup_akga\Yusup_akga\obj\Release\Yusup_akga.csproj.GenerateResource.cache
+D:\Taslama\Yusup_akga\Yusup_akga\obj\Release\Yusup_akga.csproj.CoreCompileInputs.cache
+D:\Taslama\Yusup_akga\Yusup_akga\obj\Release\Yusup_akga.csproj.CopyComplete
+D:\Taslama\Yusup_akga\Yusup_akga\obj\Release\Yusup_akga.exe
+D:\Taslama\Yusup_akga\Yusup_akga\obj\Release\Yusup_akga.pdb
